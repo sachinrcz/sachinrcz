@@ -21,5 +21,6 @@ A tech services company specializing in web and mobile app development, AI, bloc
 ## 🌟 Let's Create Something Extraordinary Together!
 
 I'm driven by a desire to use technology for innovation and problem-solving. If you're looking for someone to bring your ideas to life, let's connect!
+[sachin@devicion.com](mailto:sachin@devicion.com)
 
 
