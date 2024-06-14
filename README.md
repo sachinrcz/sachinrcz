@@ -3,7 +3,7 @@
 I'm **Sachin**, a passionate programmer and Full Stack Developer with strong base in Generative AI and Deep Learning.
 
 ## 👨‍💼 Co-founder of [Devicion](https://www.devicion.com)
-A tech services company specializing in web and mobile app development, AI, blockchain, and DevOps.
+A tech company specializing in web and mobile app development, AI, Blockchain, and DevOps.
 
 ### Working on: 🚀
 
