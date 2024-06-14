@@ -7,9 +7,9 @@ A tech services company specializing in web and mobile app development, AI, bloc
 
 ### Working on: 🚀
 
+- [Aura](https://www.auramatching.com) - An unique Dating App 
 - Web version of [COPOS (The Co-Working App)](https://www.copos.app)
 - Creating Devicion AI Lab to open source LLM models and training secrets and push forward innovation towards AGI.
-- Property Rental Marketplace for Bali
 
 ### Recent Completed Projects: 🚀
 
