@@ -9,7 +9,7 @@ A tech company specializing in web and mobile app development, AI, Blockchain, a
 
 - [Aura](https://www.auramatching.com) - An unique Dating App 
 - Web version of [COPOS (The Co-Working App)](https://www.copos.app)
-- Creating Devicion AI Lab to open source LLM models and training secrets and push forward innovation towards AGI.
+- Devicion AI Lab to open source LLM models and training secrets and push forward innovation towards AGI.
 
 ### Recent Completed Projects: 🏆
 
