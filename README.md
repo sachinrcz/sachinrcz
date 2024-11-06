@@ -16,7 +16,7 @@ A tech company specializing in web and mobile app development, AI, Blockchain, a
 - [Local Expats Bali](https://www.localexpatsbali.com) - Platform to bring expats in Bali together through events, community and discounts.
 - [EVAccess](https://evaccess.com.au) - Developed Webapp and data pipelines and systems to gather odds from multiple sources and process them with secret algorithms to give users advantages on sport betting.
 - [Halo - Your energy Blueprint](https://www.auramatching.com/halo) - App to discover your energy blueprint using Human Design
-- [COPOS (The Co-Working App)](https://www.copos.app)
+- [COPOS (The Co-Working App)](https://www.copos.app) - A simple app for coworking space management
 
 
 ## 🌟 Let's Create Something Extraordinary Together!
