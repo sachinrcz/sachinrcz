@@ -2,14 +2,18 @@
 
 I'm **Sachin**, a passionate programmer and Full Stack Developer with strong base in Backend Development, Generative AI and Deep Learning.
 
+## 👨‍💼 Co-founder of [CompaniAI](https://www.compani.ai)
+We are a venture collective exploring frontier applications of AI - from recruitment to online community moderation.
+
 ## 👨‍💼 Co-founder of [Devicion](https://www.devicion.com)
 A tech company specializing in web and mobile app development, AI, Blockchain, and DevOps.
 
 ### Working on: 🚀
 
+- Incognito Startup - AI Recruiter Agent - sourcing to hiring
 - [CompaniAI](https://compani.ai/) - AI-Powered Moderation System for games
 - [Aura](https://www.auramatching.com) - An unique Dating App 
-- Devicion AI Lab to open source LLM models and training secrets and push forward innovation towards AGI.
+- Devicion AI Lab - AI Education content open source LLM models and training and fine tuning
 
 ### Recent Completed Projects: 🏆
 
